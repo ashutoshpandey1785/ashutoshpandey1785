@@ -83,7 +83,7 @@
      
 
      
-<a href="[https://twitter.com/RK02116](https://x.com/Ashutosh1785)"><img height="30" src="https://github.com/RK1905101/RK1905101/blob/master/twitter.png"></a>
+<a href="https://x.com/Ashutosh1785"><img height="30" src="https://github.com/RK1905101/RK1905101/blob/master/twitter.png"></a>
      <br>
      
 <a href="https://t.me/AsHuTosHpaNndeY"><img height="40" src="https://github.com/RK1905101/RK1905101/blob/master/tg.png"></a>
