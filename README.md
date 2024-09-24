@@ -27,6 +27,9 @@ Infatuated with code!!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AryanMac&label=Kitni%20Nazar%20Padi&color=11&icon=3&pretty=true" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshpandey1785&show_icons=true&locale=en&layout=compact" alt="ashutoshpandey1785" /></p>
 
