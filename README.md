@@ -42,13 +42,16 @@
 
  
   ## Stats!! ( ﾉ ﾟｰﾟ)ﾉ
+
+  
   
   !<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ashutoshpandey1785&label=Kitni%20Nazar%20Padi&color=11&icon=3&pretty=true" />
 </a>   
+  <img src="https://github-profile-trophy.vercel.app?username=ashutoshpandey1785&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
   
   <div> 
-   <img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashutoshpandey1785&theme=gotham&hide_border=true&area=true" width="100%"  />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpandey1785&theme=algolia&hide_border=true" width="49%"> 
  
@@ -70,6 +73,8 @@
 <br>
 <br>
 <img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
+
+
  
   ### Connect Me..(●'◡'●)
   
